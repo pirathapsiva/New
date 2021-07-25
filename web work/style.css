@@ -1,0 +1,33 @@
+
+
+body{
+      font-family:arial,sans-serif;
+      font-size: 16px;
+    }
+    h1{
+      color:#ff66ff;
+      text-align: center;
+    }
+    p{
+      line-height:1.6em;
+    }
+    .c1{
+      color:#ded712;
+      background-color: black;
+    }
+    .c2{
+      color:blck;
+      background-color: #ded712;
+      font-family: tahoma;
+      font-style: italic;
+      text-decoration: underline;
+      text-transform: uppercase;
+      letter-spacing: 1em;
+      letter-spacing: 0.2em;
+    }
+    .container{
+      width:80%;
+      margin:auto;
+      margin-top:100px;
+
+    }
